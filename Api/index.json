@@ -1,11 +1,53 @@
 [
   {
-  "PureNah": "https://i.imgur.com/TsiBidt.jpeg",
-  "Akuma": "https://i.imgur.com/s9NdDqT.jpeg",
-  "smg": "https://i.imgur.com/IBSH8DO.jpeg" ,
-  "NBM": "https://i.imgur.com/BjI7E7c.jpeg",
-  "Akuma2": "https://i.imgur.com/tPoshja.jpeg",
-  "kortnight": "https://i.imgur.com/P7r6hxw.jpeg",
-  "HCCR" : "https://i.imgur.com/86PtOlV.jpeg"
+  "PureNah": [
+  {
+    "Image": "https://i.imgur.com/TsiBidt.jpeg",
+    "Price": "Honey",
+    "x": "x 1"
+  }
+],
+  "Akuma": [
+  {
+    "https://i.imgur.com/s9NdDqT.jpeg",
+    "Price": "Nothing this is my custom",
+    "x": ""
+  }
+],
+  "smg": [
+  {
+    "https://i.imgur.com/IBSH8DO.jpeg",
+    "Price": "free",
+    "x": ""
+  }
+ ],
+  "NBM": [
+  {
+    "https://i.imgur.com/BjI7E7c.jpeg",
+    "Price": "Competition for V0id, Or, Citroulle, swirl.",
+    "x": "x 4"
+  }
+],
+  "Akuma2": [
+  {
+    "https://i.imgur.com/tPoshja.jpeg",
+    "Price": "Nothing this is my custom",
+    "x": ""
+  }
+],
+  "kortnight": [
+  {
+    "https://i.imgur.com/P7r6hxw.jpeg",
+    "Price": "Nothing this is my custom",
+    "x": ""
+  }
+],
+  "HCCR": [
+  {
+    "https://i.imgur.com/86PtOlV.jpeg",
+    "Price": "gems",
+    "x": "x 500"
+  }
+ ]
   }
 ]
